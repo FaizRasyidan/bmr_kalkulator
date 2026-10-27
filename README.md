@@ -11,9 +11,11 @@ Perhitungan dilakukan menggunakan rumus **Mifflin-St Jeor**, dengan mempertimban
 ## Tampilan Aplikasi
 
 ### Hasil 1
+<img width="1366" height="644" alt="hasil 1" src="https://github.com/user-attachments/assets/c61073cd-c0f3-4528-8465-c8e9ab3af0dd" />
 
 
 ### Hasil 2
+<img width="1364" height="642" alt="hasil 2" src="https://github.com/user-attachments/assets/dd60bf3b-f18a-468b-b262-1a528ef4e07f" />
 
 
 ## Referensi
